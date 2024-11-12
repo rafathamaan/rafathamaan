@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😄 About Me:
 I never call myself perfect and I never want to feel im perfect because once I feel Im perfect, I’ll stop learning.<br>Human is prone to errors and no human is perfect<br>But my determination will get me closer to perfection.
 
 
