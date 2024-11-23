@@ -1,6 +1,5 @@
 # 😄 About Me:
-I never call myself perfect and I never want to feel im perfect because once I feel Im perfect, I’ll stop learning.<br>Human is prone to errors and no human is perfect<br>But my determination will get me closer to perfection.
-
+I never claim to be perfect, nor do I aspire to feel that way, because the moment I see myself as perfect, I risk halting my growth. Humans are inherently fallible, and perfection is unattainable. However, my determination drives me to constantly improve, bringing me closer to my best self.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rafathamaan) 
