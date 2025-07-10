@@ -42,6 +42,7 @@ I never claim to be perfect, nor do I aspire to feel that way, because the momen
 </picture>
 <br>
 <br>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rafathamaan&theme=rose&no-frame=false&no-bg=false&margin-w=4)
 
